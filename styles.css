@@ -557,8 +557,4 @@ fieldset {
     position: absolute;
     z-index: 0;
   }
-  
-  #aboutmepageid .box6{
-  display: none;
-  }
 }
